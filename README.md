@@ -26,4 +26,5 @@ A simple macOS application built with Python and PyQt5 that acts as a dedicated 
 git clone https://github.com/yourusername/gmail-browser-app.git
 cd gmail-browser-app
 
-![SCR-20241111-kbzg](https://github.com/user-attachments/assets/e55aa501-4b2f-4b4a-9df9-982cd212335f)
+![SCR-20241111-kbzg](https://github.com/user-attachments/assets/597519e4-5d45-4db3-bf25-5cc7eda96d8a)
+
